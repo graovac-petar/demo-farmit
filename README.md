@@ -55,8 +55,6 @@ com.farmit.demo_farmit
   - spring-boot-starter-mail
 - Hibernate / JPA
 - Lombok
-- &#x20;MySQL 
-- Maven
 
 ---
 
@@ -74,7 +72,7 @@ com.farmit.demo_farmit
 
    ```bash
    git clone https://github.com/korisnik/demo-farmit.git
-   cd moj-repo
+   cd demo-farmit
    ```
 
 2. \*\*Konfiguriši \*\***`application.properties`**
